@@ -1,0 +1,307 @@
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.csproj.AssemblyReference.cache
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.AssemblyInfoInputs.cache
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.AssemblyInfo.cs
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.csproj.CoreCompileInputs.cache
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.MvcApplicationPartsAssemblyInfo.cs
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.MvcApplicationPartsAssemblyInfo.cache
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\appsettings.Development.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\appsettings.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.staticwebassets.endpoints.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.exe
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.deps.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.runtimeconfig.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.pdb
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Azure.Core.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Azure.Identity.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Humanizer.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.ClientModel.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.CodeDom.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\scopedcss\bundle\ProductServicedeployment.styles.css
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\staticwebassets.build.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\staticwebassets.development.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductS.7649A17E.Up2Date
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\refint\ProductServicedeployment.dll
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.pdb
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.genruntimeconfig.cache
+C:\Pratibha phone backup\sANDEEP sIR cLASSES\Microservices\microservice_deployment\ProductServicedeployment\obj\Debug\net9.0\ref\ProductServicedeployment.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\appsettings.Development.json
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\appsettings.json
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.staticwebassets.endpoints.json
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.exe
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.deps.json
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.runtimeconfig.json
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ProductServicedeployment.pdb
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Azure.Core.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Azure.Identity.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Humanizer.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.ClientModel.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.CodeDom.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\Kubernetes\ProductServicedeployment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.csproj.AssemblyReference.cache
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.AssemblyInfoInputs.cache
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.AssemblyInfo.cs
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.csproj.CoreCompileInputs.cache
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\scopedcss\bundle\ProductServicedeployment.styles.css
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\staticwebassets.build.json
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\staticwebassets.development.json
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\swae.build.ex.cache
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductS.7649A17E.Up2Date
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.dll
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\refint\ProductServicedeployment.dll
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.pdb
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ProductServicedeployment.genruntimeconfig.cache
+D:\Code\Kubernetes\ProductServicedeployment\obj\Debug\net9.0\ref\ProductServicedeployment.dll
