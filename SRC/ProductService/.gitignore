@@ -1,0 +1,7 @@
+# Ignore ProductService README containing sensitive information
+Readme.txt
+ SRC/ProductService/.gitignore
+
+# .NET build files
+**/bin/
+**/obj/
