@@ -1,0 +1,47 @@
+```yaml
+trigger:
+- main
+
+pool:
+  name: ProductServiceAgentPoolPractice
+  demands:
+  - Agent.Name -equals DeepakAgent
+
+steps:
+
+- task: UseDotNet@2
+  displayName: 'Install .NET 10 SDK'
+  inputs:
+    packageType: 'sdk'
+    version: '10.x'
+
+- script: dotnet restore src/productservice/ProductServicedeployment.csproj
+  displayName: 'Restore API'
+
+- script: dotnet build src/productservice/ProductServicedeployment.csproj --configuration Release --no-restore
+  displayName: 'Build API'
+
+- script: dotnet test test/ProductServiceTest/ProductServiceTest.csproj --configuration Release
+  displayName: 'Run Tests'
+
+- script: dotnet publish src/productservice/productservice.csproj --configuration Release --output $(Build.ArtifactStagingDirectory)/publish
+  displayName: 'Publish API'
+
+- task: ArchiveFiles@2
+  displayName: 'Create Deployment Package'
+  inputs:
+    rootFolderOrFile: '$(Build.ArtifactStagingDirectory)/publish'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/productservice.zip'
+    replaceExistingArchive: true
+
+- task: AzureWebApp@1
+  displayName: 'Deploy to Azure Web App'
+  inputs:
+    azureSubscription: 'AZServiceConnection'
+    appType: 'webApp'
+    appName: 'AzureDeveopsAPIServiceCICD'
+    package: '$(Build.ArtifactStagingDirectory)/productservice.zip'
+    deploymentMethod: 'zipDeploy'
+```
